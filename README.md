@@ -105,14 +105,6 @@ A machine learning web application designed to predict Mental Health Scores usin
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ruchitasingla&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitasingla&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
