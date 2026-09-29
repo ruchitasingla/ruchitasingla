@@ -1,4 +1,4 @@
-# Hi, I'm Ruchita 👋
+# Hi, I'm Ruchita Singla 👋
 
 ### Data Analytics | Python | SQL | Power BI | Machine Learning
 
