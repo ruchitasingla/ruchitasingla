@@ -8,8 +8,14 @@
 </a>
 
 <br>
+<br>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=ruchitasingla&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://ruchitasingla.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 <img src="https://img.shields.io/github/followers/ruchitasingla?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=for-the-badge&logo=target&logoColor=white" />
 
@@ -196,9 +202,10 @@ Analyzes **customer purchasing behavior** and loyalty patterns to uncover busine
 ---
 
 ## 🤝 Let's Connect
-
 <div align="center">
-
+<a href="https://ruchitasingla.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/ruchita-singla/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -210,6 +217,10 @@ Analyzes **customer purchasing behavior** and loyalty patterns to uncover busine
 </a>
 
 <br><br>
+
+
+
+
 
 <i>💬 Open to internships and full-time roles in Machine Learning & Data Analytics.</i>
 
