@@ -1,24 +1,24 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150D26,35:3A2A5E,70:B9A4FF,100:FF8FC7&height=230&section=header&text=Ruchita%20Singla&fontSize=58&fontColor=F6E9FF&fontAlignY=38&desc=Machine%20Learning%20%7C%20MLOps%20%7C%20Python&descSize=18&descAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ruchita%20Singla&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20MLOps%20%7C%20Python&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6FB5&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ruchita+%F0%9F%91%8B;Machine+Learning+%26+MLOps+Engineer+%F0%9F%A4%96;I+build+ML+models+and+the+pipelines+that+ship+them+%F0%9F%9A%80;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ruchita+%F0%9F%91%8B;Machine+Learning+%26+MLOps+Engineer+%F0%9F%A4%96;I+build+ML+models+and+the+pipelines+that+ship+them+%F0%9F%9A%80;Open+to+Work+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ruchitasingla&label=Profile%20Views&color=FF8FC7&labelColor=1F1436&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ruchitasingla&label=Profile%20Views&color=0e75b6&labelColor=0F2027&style=for-the-badge" />
 <a href="https://ruchitasingla.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF8FC7?style=for-the-badge&logo=google-chrome&logoColor=FF8FC7&labelColor=1F1436"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F2027"/>
 </a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-FF8FC7?style=for-the-badge&logo=target&logoColor=FF8FC7&labelColor=1F1436" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2C5364?style=for-the-badge&logo=target&logoColor=white&labelColor=0F2027" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## 👩‍💻 About Me
 
@@ -44,7 +44,7 @@ class Ruchita:
 - 🌐 See all my work on my portfolio: **[ruchitasingla.github.io/Portfolio](https://ruchitasingla.github.io/Portfolio/)**
 - 💬 Ask me about **ML pipelines, CI/CD, Docker, FastAPI, Scikit-learn and SQL**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -91,7 +91,7 @@ class Ruchita:
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -101,7 +101,7 @@ class Ruchita:
 
 ### 🔁 Churn MLOps
 
-<img src="https://img.shields.io/badge/MLOps-B9A4FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOps-2C5364?style=flat-square"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 
@@ -170,7 +170,7 @@ An end-to-end analytics workflow (data preparation, modeling, SQL analysis, visu
 ### 🔁 How the Churn MLOps pipeline works
 
 ```mermaid
-%%{init: {"theme":"base","themeVariables":{"primaryColor":"#1F1436","primaryBorderColor":"#FF8FC7","primaryTextColor":"#F6E9FF","lineColor":"#B9A4FF","secondaryColor":"#271A45","tertiaryColor":"#150D26"}}}%%
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#203A43","primaryBorderColor":"#36BCF7","primaryTextColor":"#FFFFFF","lineColor":"#36BCF7","secondaryColor":"#2C5364","tertiaryColor":"#0F2027"}}}%%
 flowchart LR
     A[git push] --> B[Lint]
     B --> C[Test]
@@ -182,7 +182,7 @@ flowchart LR
     E -->|fails| X[Build stops]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## 💼 Experience
 
@@ -205,7 +205,7 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## 🎓 Education
 
@@ -221,25 +221,25 @@ flowchart LR
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchitasingla&show_icons=true&rank_icon=github&bg_color=150D26&title_color=FF8FC7&text_color=F6E9FF&icon_color=8FF5D0&border_color=3A2A5E" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitasingla&layout=compact&bg_color=150D26&title_color=FF8FC7&text_color=F6E9FF&border_color=3A2A5E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ruchitasingla&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitasingla&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8FC7,50:B9A4FF,100:8FF5D0&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:36BCF7&height=4" width="100%"/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://ruchitasingla.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-ruchitasingla.github.io-FF8FC7?style=for-the-badge&logo=google-chrome&logoColor=FF8FC7&labelColor=1F1436"/>
+  <img src="https://img.shields.io/badge/Portfolio-ruchitasingla.github.io-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0F2027"/>
 </a>
 <a href="https://www.linkedin.com/in/ruchita-singla/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -259,6 +259,6 @@ flowchart LR
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:150D26,35:3A2A5E,70:B9A4FF,100:FF8FC7&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20✨&fontSize=22&fontColor=F6E9FF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20✨&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
